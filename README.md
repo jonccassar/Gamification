@@ -7,7 +7,7 @@ Gamification of the Research Process
 
 ####2. What is Gamification ?####
 
-####3. Screen Shots
+####3. Application Screen Shots
 ![Settings Window](https://raw2.github.com/jonccassar/Gamification/master/Screen%20Shots/pic1.png)
 
 
@@ -21,6 +21,6 @@ Gamification of the Research Process
 * Screen Shots are found in the folder names __Screen Shots__
 
 ####5. License and Distribution ####
-<p> This software is being distributed under the Apache License V2.0. A copy of the license can be found in the uploaded files or from http://www.apache.org/licenses/</p>
+This software is being distributed under the Apache License V2.0. A copy of the license can be found in the uploaded files or from http://www.apache.org/licenses/
 
 
