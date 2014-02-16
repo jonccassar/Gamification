@@ -9,7 +9,7 @@ Gamification of the Research Process
 
 ####3. Screen Shots
 ![Settings Window](https://raw2.github.com/jonccassar/Gamification/master/Screen%20Shots/pic1.png)
-</br>
+<br/>
 ![Settings Windos](https://raw2.github.com/jonccassar/Gamification/master/Screen%20Shots/pic2.png)
 
 ####4.Resources ####
