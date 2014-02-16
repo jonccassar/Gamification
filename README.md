@@ -8,7 +8,7 @@ Gamification of the Research Process
 ####2. What is Gamification ?####
 
 ####3. Show Case
-![ScreenShot](https://raw.github.com/jonccassar/gamification/master/Screen%20Schots/main_screen.png)
+![ScreenShot](https://github.com/jonccassar/gamification/master/Screen%20Schots/main_screen.png)
 
 ####4.Resources ####
 * Javadoc is available at http://jonccassar.github.io/Javadoc
