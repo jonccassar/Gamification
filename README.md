@@ -13,16 +13,18 @@ Gamifcation may be defined as the use of game design elements into a non-gaming 
 * Pain Squad App (http://www.campaignpage.ca/sickkidsapp/)
 * Epic Win (http://www.rexbox.co.uk)
 
-####3. Project Scope ####
-The purpose of this project is to demonstrate the power of gamification in the research domain. It strives to explain the science, the psychology, the driving forces and the issues involved in the gamification process of an academic environment. 
+####3. Project Scope
+The purpose of this project is to demonstrate the power of gamification in the research domain. It strives to explain the science, the psychology, the driving forces and the issues involved in the gamification process of an academic environment.
 
-####4. Application Screen Shots
+####4. Project Implementation
+
+####5. Application Screen Shots
 ![Settings Window](https://raw2.github.com/jonccassar/Gamification/master/Screen%20Shots/pic1.png)
 
 
 ![Settings Windos](https://raw2.github.com/jonccassar/Gamification/master/Screen%20Shots/pic2.png)
 
-####5.Resources ####
+####6.Resources ####
 * Javadoc is available at http://jonccassar.github.io/Javadoc
 * UML diarams are found in the folder named __UML Diagrams__
 * Mockup screens are found in the folder named __Application Wire Frames__
@@ -30,7 +32,7 @@ The purpose of this project is to demonstrate the power of gamification in the r
 * Screen Shots are found in the folder named __Screen Shots__
 * Badges designs are found in the folder named __Badges__
 
-####6. License and Distribution ####
+####7. License and Distribution ####
 This software is being distributed under the Apache License V2.0. A copy of the license can be found in the uploaded files or from http://www.apache.org/licenses/
 
 
