@@ -7,7 +7,7 @@ Gamification of the Research Process
 The purpose of this project is to demonstrate the power of gamification in the research domain. It strives to explain the science, the psychology, the driving forces and the issues involved in the gamification process of an academic environment. 
 
 ####2. What is Gamification ?####
-<p>Gamifcation may be defined as the use of game design elements into a non-gaming environment. With the scope of motivating people, the gamification concept, applies gaming elements like trophies, badges, points, avatars and leader boards to a non-gaming context such as place of work.  Gamification can also be expressed as the utilization of game mechanics, dynamics and framework for the promotion of certain desired audience behaviour. More specifically, gamification can be termed as the utilization of mechanics, feedback loops, loyalty, fun and rewards that server as interaction boosters.</P>
+<p>Gamifcation may be defined as the use of game design elements into a non-gaming environment. With the scope of motivating people, the gamification concept, applies gaming elements like trophies, badges, points, avatars and leader boards to a non-gaming context such as place of work.  Gamification can also be expressed as the utilization of game mechanics, dynamics and framework for the promotion of certain desired audience behaviour. More specifically, gamification can be termed as the utilization of mechanics, feedback loops, loyalty, fun and rewards that server as interaction boosters.</p>
 
 ####3. Example of Existing Systems
 
