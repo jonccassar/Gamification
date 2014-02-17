@@ -4,6 +4,7 @@ Gamification
 Gamification of the Research Process
 
 ####1. Project Scope ####
+The purpose of this project is to demonstrate the power of gamification in the research domain. It strives to explain the science, the psychology, the driving forces and the issues involved in the gamification process of an academic environment. 
 
 ####2. What is Gamification ?####
 
