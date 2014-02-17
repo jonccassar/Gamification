@@ -10,7 +10,7 @@ The purpose of this project is to demonstrate the power of gamification in the r
 Gamifcation may be defined as the use of game design elements into a non-gaming environment. With the scope of motivating people, the gamification concept, applies gaming elements like trophies, badges, points, avatars and leader boards to a non-gaming context such as place of work.  Gamification can also be expressed as the utilization of game mechanics, dynamics and framework for the promotion of certain desired audience behaviour. More specifically, gamification can be termed as the utilization of mechanics, feedback loops, loyalty, fun and rewards that server as interaction boosters.
 
 ####3. Example of Existing Systems
-* Write or Die 2
+* __Write or Die 2__:
 The application Write or Die 2 focuses on eliminating any writer's block. The application
 provides solutions for consequences like procrastination and frustration as it embraces
 rewards for writing and penalties for not writing. The application provides nice environments
