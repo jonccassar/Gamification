@@ -31,7 +31,7 @@ The purpose of this project is to demonstrate the power of gamification in the r
 * Encourages users to work on the dissertation during fee time
 
 ######5.3 Points, Badges and Levels
-Points can be earned by conducting actions related to production of a dissertation. The application supports three activities from which points cane be earned and these are;
+Points can be earned by conducting actions related to production of a dissertation. The application supports three activities from which, points can be earned and these are;
 * Reading Papers (15 points)
 * Writing dissertation chapters (35%, 80%, 100% completed earn 10, 40 and 50 points)
 * Conduct dissertation surveys (5 points)
