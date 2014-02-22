@@ -26,7 +26,15 @@ The purpose of this project is to demonstrate the power of gamification in the r
 * Mobile ring tone
 
 ######5.2 Schedule
+* Connects to gmail calendar and show daily events 
+* Indicates total amount of free time less 8 hours of sleep
+* Encourages users to work on the dissertation during fee time
 
+######5.3 Earn Points
+Earn points by reading papers, writing dissertation chapters and conducting surveys. 
+
+######5.4 Level-up & badges 
+Points can be redeemed 
 
 
 ####6. Application Screen Shots
