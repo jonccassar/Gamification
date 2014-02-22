@@ -20,7 +20,7 @@ The purpose of this project is to demonstrate the power of gamification in the r
 
 ####5. Application Features
 #####5.1 Daily Notifications
-* Sends notifications every 6 hours –starting at 8.00am 
+* Send notifications every 6 hours - starting at 8.00am 
 * LED light flashes 4 times in Magenta colour 
 * Mobile vibration 
 * Mobile ring tone
