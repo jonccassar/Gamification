@@ -3,7 +3,7 @@ Gamification
 
 Gamification of the Research Process
 
-####1. What is Gamification ?####
+###1. What is Gamification ?####
 Gamifcation may be defined as the use of game design elements into a non-gaming environment. With the scope of motivating people, the gamification concept, applies gaming elements like trophies, badges, points, avatars and leader boards to a non-gaming context such as place of work.  Gamification can also be expressed as the utilization of game mechanics, dynamics and framework for the promotion of certain desired audience behaviour. More specifically, gamification can be termed as the utilization of mechanics, feedback loops, loyalty, fun and rewards that server as interaction boosters.
 
 ####2. Example of Existing Systems
@@ -30,12 +30,12 @@ The purpose of this project is to demonstrate the power of gamification in the r
 * Indicates total amount of free time less 8 hours of sleep
 * Encourages users to work on the dissertation during fee time
 
-######5.3 Earn Points
-Earn points by reading papers, writing dissertation chapters and conducting surveys. 
-
-######5.4 Level-up & badges 
-Points can be redeemed 
-
+######5.3 Points, Badges and Levels
+Points can be earned by
+* Reading Papers (15 points)
+* Writing dissertation chapters (35%, 80%, 100% completed earn 10, 40 and 50 points)
+* Conduct dissertation surveys (5 points)
+In the process users can progress through six levels and earn badges assoicated whith each level reached. 
 
 ####6. Application Screen Shots
 ![Settings Window](https://raw2.github.com/jonccassar/Gamification/master/Screen_Shots/pic1.png)
