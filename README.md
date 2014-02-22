@@ -24,6 +24,7 @@ The purpose of this project is to demonstrate the power of gamification in the r
 * LED light flashes 4 times in Magenta colour 
 * Mobile vibration 
 * Mobile ring tone
+#####5.2 Schedule
 
 
 
