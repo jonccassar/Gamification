@@ -14,9 +14,12 @@ Gamifcation may be defined as the use of game design elements into a non-gaming 
 * Epic Win (http://www.rexbox.co.uk)
 
 ###3. Project Scope
-The purpose of this project is to demonstrate the power of gamification in the research domain. It strives to explain the science, the psychology, the driving forces and the issues involved in the gamification process of an academic environment.
+<p>The research question governing this project strives to provide a tangible answer to whether it is possible 
+to <u>make the compilation of a dissertation more enjoyable and engaging through gamification to the extent of making 
+students wanting to undertake the same process again</u>. In the process, the project strives to shed light on the power of gamification and explain the science, the psychology and the driving forces that are at play in a gamified academic 
+process.</p>
 
-###4. Application Implementation
+###4. Project Implementation
 
 ###5. Application Features
 ######5.1 Daily Notifications
