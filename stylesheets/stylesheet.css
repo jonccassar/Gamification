@@ -346,9 +346,9 @@ Full-Width Styles
 
 .play_store_link {
   display: block;
-  float: right;
-  width: 90px;
-  height:70px;
+  float: left;
+  width: 929px;
+  height:400px;
   text-indent: -5000px;
   overflow: hidden;
   background: url(../images/play_store.png) no-repeat bottom right;
