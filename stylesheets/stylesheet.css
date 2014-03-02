@@ -348,7 +348,7 @@ Full-Width Styles
   display: block;
   width: 187px;
   height:64px;
-  float:center;
+  margin: 10px 0;
   text-indent: -5000px;
   overflow: hidden;
   background: url(../images/play_store.png) no-repeat bottom right;
