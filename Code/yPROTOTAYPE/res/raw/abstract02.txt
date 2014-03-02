@@ -1,0 +1,17 @@
+Recently digital designers have begun to integrate game el-
+ements and mechanics into non-game applications, systems,
+and services, to better engage end-users. This notion is
+named as the \gamication". In this paper, we discuss the
+idea of applying the gamication concept in designing intel-
+ligent environments to improve the overall user engagement.
+We present two case studies to better understand the eec-
+tiveness of gamifying intelligent systems: a mobile crowd-
+sourcing application that works as image based social search
+across languages, called UbiAsk, and a persuasive applica-
+tion for motivating users to reduce CO2 emissions named
+EcoIsland. We argue that the game-based incentive meth-
+ods only work with a careful design: designers should be
+aware that the main functionalities of the system have much
+greater impact than the additional gamied components,
+and the desired game-like user behavior requires compre-
+hensive game-like experience that is supported by not

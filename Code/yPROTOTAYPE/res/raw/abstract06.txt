@@ -1,0 +1,11 @@
+Gamification is the "use of game design elements in non-game contexts"
+(Deterding et al, 2011, p.1). A frequently used model for gamification is to equate an
+activity in the non-game context with points and have external rewards for reaching
+specified point thresholds. One significant problem with this model of gamification is that
+it can reduce the internal motivation that the user has for the activity, as it replaces
+internal motivation with external motivation. If, however, the game design elements can
+be made meaningful to the user through information, then internal motivation can be
+improved as there is less need to emphasize external rewards. This paper introduces the
+concept of meaningful gamification through a user-centered exploration of theories
+behind organismic integration theory, situational relevance, situated motivational
+affordance, universal design for learning, and player-generated content.

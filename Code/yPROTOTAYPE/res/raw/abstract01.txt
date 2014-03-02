@@ -1,0 +1,14 @@
+Gamification, the use of game mechanics in non-gaming
+applications, has been applied to various systems to
+encourage desired user behaviors. In this paper, we examine
+patterns of user activity in an enterprise social network
+service after the removal of a points-based incentive
+system. Our results reveal that the removal of the incentive
+scheme did reduce overall participation via contribution
+within the SNS. We also describe the strategies by point
+leaders and observe that users geographically distant from
+headquarters tended to comment on profiles outside of their
+home country. Finally, we describe the implications of the
+removal of extrinsic rewards, such as points and badges, on
+social software systems, particularly those deployed within
+an enterprise.

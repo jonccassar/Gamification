@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ProgressWheel="http://schemas.android.com/apk/res-auto"
+    package="com.example.gamification_research"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="4"
+        android:targetSdkVersion="19" />
+
+    <!-- PERMISSIONS -->
+    <uses-permission android:name="android.permission.READ_CALENDAR" />
+    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.SET_ALARM" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        
+        <!-- SERVICE TO SEND DAILY NOTIFICATIONS -->
+        <service
+            android:name=".Notification"
+            android:enabled="true" />
+
+        <!-- MAIN -->
+        <activity
+            android:name="com.example.gamification_research.Main_screen"
+            android:label="@string/app_name"
+            android:noHistory="false"
+            android:screenOrientation="portrait" >
+"
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- PAPERS SCREEN -->
+        <activity
+            android:name=".Papers_screen"
+            android:label="@string/app_name"
+            android:noHistory="true"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.Papers_screen" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <!-- PROGRESS SCREEN -->
+        <activity
+            android:name=".Progress_screen"
+            android:label="@string/app_name"
+            android:noHistory="true"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.Progress_screen" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <!-- CALENDAR SCREEN -->
+        <activity
+            android:name=".Calendar_screen"
+            android:label="@string/app_name"
+            android:noHistory="true"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.Calendar_screen" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <!-- EVALUNATION SCREEN -->
+        <activity
+            android:name=".Evaluation_screen"
+            android:label="@string/app_name"
+            android:noHistory="true"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.Evaluation_screen" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <!-- SETTINGS SCREEN -->
+        <activity
+            android:name=".Settings_screen"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/pref" >
+            <intent-filter>
+                <action android:name="android.intent.action.Settings_screen" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <!-- NOTIFICATION -->
+        <activity
+            android:name=".Notification"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/pref" >
+            <intent-filter>
+                <action android:name="android.intent.action.Notification" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

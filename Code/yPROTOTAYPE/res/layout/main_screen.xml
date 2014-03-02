@@ -1,0 +1,265 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/background"
+    tools:context=".Main_screen" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" >
+
+        <TextView
+            android:id="@+id/txt_hello_main"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Hello "
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#FFFFFF" />
+
+        <TextView
+            android:id="@+id/txt_user_main"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text=" User"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#FFFFFF" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/LinearLayout01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp" >
+
+        <TextView
+            android:id="@+id/txt_total_pts_main"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Total Points: "
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#FFFFFF" />
+
+        <TextView
+            android:id="@+id/txt_tpts_main"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="     tot_pts"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#FFFFFF" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="75dp" >
+
+        <TextView
+            android:id="@+id/txt_daily_pts_main"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Daily Points: "
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#FFFFFF" />
+
+        <TextView
+            android:id="@+id/txt_dpts_main"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="    day_pts"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#FFFFFF" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/linearLayout4"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:gravity="center" >
+
+        <Button
+            android:id="@+id/btn_papers_main"
+            style="@style/btnStyleBreakerBay"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:gravity="center"
+            android:text="Papers" />
+
+        <Button
+            android:id="@+id/btn_progress_main"
+            style="@style/btnStyleBreakerBay"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_marginLeft="2dp"
+            android:gravity="center"
+            android:text="Progress" />
+
+        <Button
+            android:id="@+id/btn_evaluation_main"
+            style="@style/btnStyleBreakerBay"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_marginLeft="2dp"
+            android:gravity="center"
+            android:text="Evaluation" />
+
+        <Button
+            android:id="@+id/btn_calendar_main"
+            style="@style/btnStyleBreakerBay"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_marginLeft="2dp"
+            android:gravity="center"
+            android:text="Calendar" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/linearLayout7"
+        android:layout_alignLeft="@+id/linearLayout7"
+        android:layout_alignRight="@+id/linearLayout7"
+        android:layout_below="@+id/linearLayout1"
+        android:layout_marginTop="20dp"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center" >
+
+            <TextView
+                android:id="@+id/txt_level_main"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Level: "
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="#FFFFFF" />
+
+            <TextView
+                android:id="@+id/txt_lvl_main"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="  lvl"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="#FFFFFF" />
+
+        </LinearLayout>
+
+        <ImageSwitcher
+            android:id="@+id/imgSwitcher_main"
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:layout_gravity="center_horizontal" >
+
+        </ImageSwitcher>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout7"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/linearLayout4"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="2dp"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/btn_next_main"
+            style="@style/btnStyleBreakerBay"
+            android:layout_width="wrap_content"
+            android:layout_height="28dp"
+            android:layout_gravity="center"
+            android:layout_weight="0.14"
+            android:gravity="center"
+            android:text="Next >"
+            android:textSize="8dp" />
+
+        <TextView
+            android:id="@+id/txt_progress_main"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_weight="0.14"
+            android:text="Dissertation progress"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#FFFFFF" />
+
+        <ProgressBar
+            android:id="@+id/prog_bar_progress_screen"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="match_parent"
+            android:layout_height="20dip"
+            android:layout_alignLeft="@+id/txt_progress_progress_srn"
+            android:layout_alignRight="@+id/end_prog_bar_screen"
+            android:layout_below="@+id/txt_progress_progress_srn"
+            android:layout_marginTop="16dp"
+            android:layout_weight="0.14"
+            android:indeterminateOnly="false"
+            android:max="600"
+            android:progressDrawable="@drawable/progress_bar" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.14" >
+
+            <TextView
+                android:id="@+id/txt_percebt_main"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="perCent"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="#FFFFFF" />
+
+            <TextView
+                android:id="@+id/txt_percent_sign_main"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="%"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="#FFFFFF" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/linearLayout4"
+        android:layout_below="@+id/linearLayout4" >
+
+        <TextView
+            android:id="@+id/txt_elapsed_main"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Days Elapsed: "
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#FFFFFF" />
+
+        <TextView
+            android:id="@+id/txt_eps_main"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="  eps_dys"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#FFFFFF" />
+
+    </LinearLayout>
+
+</RelativeLayout>

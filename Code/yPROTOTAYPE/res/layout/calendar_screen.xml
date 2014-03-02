@@ -1,0 +1,290 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background" >
+
+    <com.example.gamification_research.Time_Ruler
+        android:id="@+id/timeRuler"
+        android:layout_width="fill_parent"
+        android:layout_height="420dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true" />
+
+
+    <TextView
+        android:id="@+id/txt1_schedule_srn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/txt0_schedule_srn"
+        android:layout_below="@+id/txt0_schedule_srn"
+        android:layout_marginTop="5dp"
+        android:text="txt1"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:id="@+id/txt0_schedule_srn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:text="txt0"
+        android:textColor="#FFFFFF"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+         />
+
+    <TextView
+        android:id="@+id/txt2_schedule_srn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/txt1_schedule_srn"
+        android:layout_below="@+id/txt1_schedule_srn"
+        android:layout_marginTop="5dp"
+        android:text="txt2"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:id="@+id/txt3_schedule_srn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/txt2_schedule_srn"
+        android:layout_below="@+id/txt2_schedule_srn"
+        android:layout_marginTop="4dp"
+        android:text="txt3"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:id="@+id/txt4_schedule_srn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/txt3_schedule_srn"
+        android:layout_below="@+id/txt3_schedule_srn"
+        android:layout_marginTop="3dp"
+        android:text="txt4"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:id="@+id/txt5_schedule_srn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/txt4_schedule_srn"
+        android:layout_below="@+id/txt4_schedule_srn"
+        android:layout_marginTop="3dp"
+        android:text="txt5"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:id="@+id/txt6_schedule_srn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/txt5_schedule_srn"
+        android:layout_below="@+id/txt5_schedule_srn"
+        android:layout_marginTop="3dp"
+        android:text="txt6"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:id="@+id/txt7_schedule_srn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/txt6_schedule_srn"
+        android:layout_below="@+id/txt6_schedule_srn"
+        android:layout_marginTop="3dp"
+        android:text="txt7"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:id="@+id/txt8_schedule_srn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/txt7_schedule_srn"
+        android:layout_below="@+id/txt7_schedule_srn"
+        android:layout_marginTop="3dp"
+        android:text="txt8"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:id="@+id/txt11_schedule_srn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/txt10_schedule_srn"
+        android:layout_below="@+id/txt10_schedule_srn"
+        android:layout_marginTop="4dp"
+        android:text="txt11"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:id="@+id/txt12_schedule_srn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/txt11_schedule_srn"
+        android:layout_below="@+id/txt11_schedule_srn"
+        android:layout_marginTop="4dp"
+        android:text="txt12"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:id="@+id/txt13_schedule_srn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/txt12_schedule_srn"
+        android:layout_below="@+id/txt12_schedule_srn"
+        android:layout_marginTop="3dp"
+        android:text="txt13"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:id="@+id/txt14_schedule_srn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/txt13_schedule_srn"
+        android:layout_below="@+id/txt13_schedule_srn"
+        android:layout_marginTop="3dp"
+        android:text="txt14"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:id="@+id/txt15_schedule_srn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/txt14_schedule_srn"
+        android:layout_below="@+id/txt14_schedule_srn"
+        android:layout_marginTop="3dp"
+        android:text="txt15"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:id="@+id/txt16_schedule_srn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/txt15_schedule_srn"
+        android:layout_below="@+id/txt15_schedule_srn"
+        android:layout_marginTop="3dp"
+        android:text="txt16"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:id="@+id/txt17_schedule_srn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/txt16_schedule_srn"
+        android:layout_below="@+id/txt16_schedule_srn"
+        android:layout_marginTop="3dp"
+        android:text="txt17"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:id="@+id/txt18_schedule_srn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/txt17_schedule_srn"
+        android:layout_below="@+id/txt17_schedule_srn"
+        android:layout_marginTop="3dp"
+        android:text="txt18"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:id="@+id/txt19_schedule_srn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/txt18_schedule_srn"
+        android:layout_below="@+id/txt18_schedule_srn"
+        android:layout_marginTop="4dp"
+        android:text="txt19"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:id="@+id/txt20_schedule_srn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/txt19_schedule_srn"
+        android:layout_below="@+id/txt19_schedule_srn"
+        android:layout_marginTop="4dp"
+        android:text="txt20"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:id="@+id/txt10_schedule_srn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/txt8_schedule_srn"
+        android:layout_below="@+id/txt9_schedule_srn"
+        android:layout_marginTop="4dp"
+        android:text="txt10"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:id="@+id/txt9_schedule_srn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="3dp"
+        android:layout_alignLeft="@+id/txt10_schedule_srn"
+        android:layout_below="@+id/txt8_schedule_srn"
+        android:text="txt9"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:id="@+id/txt21_schedule_srn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/txt20_schedule_srn"
+        android:layout_below="@+id/txt20_schedule_srn"
+        android:text="txt21"
+         android:layout_marginTop="4dp"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:id="@+id/txt22_schedule_srn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/txt21_schedule_srn"
+        android:layout_below="@+id/txt21_schedule_srn"
+        android:text="txt22"
+         android:layout_marginTop="4dp"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:id="@+id/txt23_schedule_srn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/txt22_schedule_srn"
+        android:layout_below="@+id/txt22_schedule_srn"
+        android:layout_marginTop="4dp"
+        android:text="txt23"
+        android:textColor="#FFFFFF" 
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/txt24_schedule_srn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/txt23_schedule_srn"
+        android:layout_below="@+id/txt23_schedule_srn"
+        android:text="txt24"
+        android:layout_marginTop="4dp"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textColor="#FFFFFF" />
+
+</RelativeLayout>

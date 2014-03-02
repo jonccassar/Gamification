@@ -1,0 +1,11 @@
+The current psychological research literature surrounding serious games tends to
+focus on immersive environments where parts of the “real world” are recreated.
+Military videogames, for example, are most typically 3D-rendered environments
+where teammates perform cooperative tasks, from basic drill exercises to complex
+collaborative missions (e.g. Orvis et al., 2009). The purpose of immersion in such
+games is certainly clear; a real in-person environment must be recreated, with all
+the complexities of the technical and social interactions typically found there. This
+specific kind of game, called a simulation game, maximizes the fidelity of the learning
+environment so that it more completely represents the real world, combining
+elements of both games and simulations (Wilson et al., 2008). This is certainly a
+valuable application of videogaming. But this use is

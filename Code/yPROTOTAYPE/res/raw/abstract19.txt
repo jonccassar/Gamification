@@ -1,0 +1,20 @@
+Adding game elements to an application to motivate use
+and enhance the user experience is a growing trend
+known as gamification. This study explores the use of
+game achievements when applied to a mobile application
+designed to help new students at university. This paper
+describes the foundations of a design framework used to
+integrate game elements to Orientation Passport, a
+personalised orientation event application for smart
+phones. Orientation Passport utilises game achievements
+to present orientation information in an engaging way and
+to encourage use of the application. The system is
+explained in terms of the design framework, and the
+findings of a pilot study involving 26 new students are
+presented. This study contributes the foundations of a
+design framework for general gamified achievement
+design. It also suggests that added game elements can be
+enjoyable but can potentially encourage undesirable use
+by some, and aren’t as enjoyable if not enforced properly
+by the technology. Consideration is also needed when
+enforcing stricter game rules as usability can be affected.

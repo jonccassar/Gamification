@@ -1,0 +1,8 @@
+ The implementation of game mechanics (like points or leadersboards) in a 
+serious context is called “gamification”. In this explorative analysis of a single case 
+participants of an online idea competition were asked about their motives for 
+participation, flow, enjoyment, task involvement and their perception of game 
+mechanics with respect to flow, enjoyment and task involvement. The results indicate 
+that game mechanics may be a solution to address the main challenges of online idea 
+competitions. However, the analyzed case illustrates also that if game mechanics are 
+applied inadequately and unsophisticatedly they are not able to unfold their potential.
