@@ -50,7 +50,7 @@ In the process users can progress through six levels and earn badges assoicated 
 * Javadoc is available at http://jonccassar.github.io/Javadoc
 * UML diarams are found in the folder named __UML Diagrams__
 * Mockup screens are found in the folder named __Application Wire Frames__
-* Source code is found in the folder named __Source Code__
+* Source code is found in the folder named __Code__
 * Screen Shots are found in the folder named __Screen Shots__
 * Badges designs are found in the folder named __Badges__
 
