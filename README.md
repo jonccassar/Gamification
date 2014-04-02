@@ -4,15 +4,21 @@ Gamification
 Gamification of the Research Process
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ####1. What is Gamification ?####
 Gamifcation may be defined as the use of game design elements into a non-gaming environment. With the scope of motivating people, the gamification concept, applies gaming elements like trophies, badges, points, avatars and leader boards to a non-gaming context such as place of work.  Gamification can also be expressed as the utilization of game mechanics, dynamics and framework for the promotion of certain desired audience behaviour. More specifically, gamification can be termed as the utilization of mechanics, feedback loops, loyalty, fun and rewards that server as interaction boosters.
 
 ####2. Example of Existing Systems
 =======
+=======
+>>>>>>> dacabb38a99584ada92425ada986053c7fe1993f
 ###1. What is Gamification ?####
 Gamifcation may be defined as the use of game design elements into a non-gaming environment. With the scope of motivating people, the gamification concept, applies gaming elements like trophies, badges, points, avatars and leader boards to a non-gaming context such as place of work.  Gamification can also be expressed as the utilization of game mechanics, dynamics and framework for the promotion of certain desired audience behaviour. More specifically, gamification can be termed as the utilization of mechanics, feedback loops, loyalty, fun and rewards that server as interaction boosters.
 
 ###2. Example of Existing Systems
+<<<<<<< HEAD
+>>>>>>> dacabb38a99584ada92425ada986053c7fe1993f
+=======
 >>>>>>> dacabb38a99584ada92425ada986053c7fe1993f
 * Write or Die 2 (http://writeordie.com/)
 * 750 words (http://750words.com)
@@ -20,6 +26,7 @@ Gamifcation may be defined as the use of game design elements into a non-gaming 
 * Pain Squad App (http://www.campaignpage.ca/sickkidsapp/)
 * Epic Win (http://www.rexbox.co.uk)
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 ####3. Project Scope
 The purpose of this project is to demonstrate the power of gamification in the research domain. It strives to explain the science, the psychology, the driving forces and the issues involved in the gamification process of an academic environment.
@@ -42,6 +49,8 @@ The purpose of this project is to demonstrate the power of gamification in the r
 
 ####7. License and Distribution ####
 =======
+=======
+>>>>>>> dacabb38a99584ada92425ada986053c7fe1993f
 ###3. Project Scope
 <p>The research question governing this project strives to provide a tangible answer to whether it is possible 
 to <u>make the compilation of a dissertation more enjoyable and engaging through gamification to the extent of making 
@@ -84,6 +93,9 @@ In the process users can progress through six levels and earn badges assoicated 
 * Badges designs are found in the folder named __Badges__
 
 ####8. License and Distribution ####
+<<<<<<< HEAD
+>>>>>>> dacabb38a99584ada92425ada986053c7fe1993f
+=======
 >>>>>>> dacabb38a99584ada92425ada986053c7fe1993f
 This software is being distributed under the Apache License V2.0. A copy of the license can be found in the uploaded files or from http://www.apache.org/licenses/
 
