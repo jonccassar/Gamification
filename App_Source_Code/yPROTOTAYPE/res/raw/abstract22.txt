@@ -1,7 +1,0 @@
-As video games, particularly, social games are growing in popularity and number of users, there has been
-an increasing interest in its potential as innovative teaching tools. Gamification is a new concept intending
-to use elements from video games in non-game applications. Education is an area with high potential
-for application of this concept since it seeks to promote people’s motivation and engagement. The
-research in progress will try to find how to apply social gamification in education, testing and validating
-the results of that application. To fulfil these objectives, this paper presents the guidelines and main features
-of a social gamification framework to be applied in an existent K-6 social learning environment.

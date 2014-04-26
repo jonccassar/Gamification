@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<project default="javadoc">
-    <target name="javadoc">
-        <javadoc access="public" author="true" classpath="libs/android-support-v4.jar;libs/DatePreference.jar" destdir="doc" doctitle="Gamification Research" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="com.example.gamification_research" source="1.7" sourcepath="src;gen" splitindex="true" use="true" version="true">
-            <link href="file:/E:/eclipseWorkBench/yPROTOTAYPE/doc/"/>
-            <link href="file:/C:/Program%20Files/APPS/ECLIPSE/sdk/docs/reference"/>
-        </javadoc>
-    </target>
-</project>

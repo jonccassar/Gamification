@@ -1,7 +1,0 @@
-Games are part of day to day life, entertaining users, but at the same time modelling 
-behaviors. By applying game mechanics and dynamics to tasks and e-learning processes we 
-can increase user engagement with an e-learning application and its specific tasks. While 
-having multiple uses in commercial practices, gamification implies well established 
-techniques similar to those found in games. We will take a closer look at the ones that are 
-appropriate to the learning process and moreover to e-learning and analyze relevant 
-examples

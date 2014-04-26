@@ -1,6 +1,0 @@
-Gamification is the concept of applying the mechanics of gaming to nongame activities to
-change people’s behaviour (Gamification.org, 2012). The goal with gamification is to drive
-a specific behaviour and motivate the users of a gamified system1. This thesis describes
-gamification on a detailed level in order to clarify what gamification is and how it works,
-both in theory and in practice. Furthermore, a proposal on how to take gamification to the
-next level is presented as a part of the thesis.
